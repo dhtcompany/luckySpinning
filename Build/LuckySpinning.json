@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "unity3d-fortune-wheel-master",
+"dataUrl": "LuckySpinning.data.unityweb",
+"asmCodeUrl": "LuckySpinning.asm.code.unityweb",
+"asmMemoryUrl": "LuckySpinning.asm.memory.unityweb",
+"asmFrameworkUrl": "LuckySpinning.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
